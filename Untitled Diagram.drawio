@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T06:37:00.706Z" agent="5.0 (Macintosh)" etag="vU3nZ7RNEK2zDnRdZqpW" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T06:49:45.731Z" agent="5.0 (Macintosh)" etag="RGKqjnEIzDDaphFVlrlB" version="20.0.4" type="github">
   <diagram id="46HZD863k6NMnnVQx-7p" name="Page-1">
-    <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SiqDUemRAZ8RuKs0BlO-1" target="x_Rzsfc4FZdm5byKSgcD-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0SiqDUemRAZ8RuKs0BlO-1" value="User Browser" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="31" y="95" width="90" height="50" as="geometry" />
+          <mxGeometry x="-150" y="135" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0SiqDUemRAZ8RuKs0BlO-149" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="178" y="800" width="640" height="520" as="geometry" />
@@ -282,31 +285,14 @@
             <mxPoint x="-25" y="19.25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x_Rzsfc4FZdm5byKSgcD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0SiqDUemRAZ8RuKs0BlO-210" target="0SiqDUemRAZ8RuKs0BlO-218">
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SiqDUemRAZ8RuKs0BlO-210" target="x_Rzsfc4FZdm5byKSgcD-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0SiqDUemRAZ8RuKs0BlO-210" value="Frontend App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="222.5" y="20" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="0SiqDUemRAZ8RuKs0BlO-215" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0SiqDUemRAZ8RuKs0BlO-1" target="0SiqDUemRAZ8RuKs0BlO-210" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="210" as="sourcePoint" />
-            <mxPoint x="200" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0SiqDUemRAZ8RuKs0BlO-216" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0SiqDUemRAZ8RuKs0BlO-215" vertex="1" connectable="0">
-          <mxGeometry x="-0.0857" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x_Rzsfc4FZdm5byKSgcD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SiqDUemRAZ8RuKs0BlO-218" target="x_Rzsfc4FZdm5byKSgcD-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0SiqDUemRAZ8RuKs0BlO-218" value="Backend App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="358" y="80" width="80" height="80" as="geometry" />
+        <mxCell id="0SiqDUemRAZ8RuKs0BlO-218" value="Backend Air App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="118" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-2" value="ITM_DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="90" width="60" height="60" as="geometry" />
@@ -354,17 +340,50 @@
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-13" value="ETL Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-32" target="x_Rzsfc4FZdm5byKSgcD-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-32" value="IBM Cloud Openshift" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="40" width="302" height="270" as="geometry" />
+          <mxGeometry x="100" y="10" width="300" height="300" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-36" value="IBM Cloud DB" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="40" width="270" height="140" as="geometry" />
+          <mxGeometry x="500" y="10" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-37" value="IBM Cloud VM" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-38" value="Softlayer" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="795" y="40" width="100" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-40" target="x_Rzsfc4FZdm5byKSgcD-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-40" value="keycloak" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/kgpg_identity.png" vertex="1" parent="1">
+          <mxGeometry y="137.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-43" target="x_Rzsfc4FZdm5byKSgcD-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-43" target="x_Rzsfc4FZdm5byKSgcD-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-43" target="x_Rzsfc4FZdm5byKSgcD-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-43" target="0SiqDUemRAZ8RuKs0BlO-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-43" value="API Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="95" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-44" value="Backend Card App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="318" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-45" value="Backend Hotel App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="248" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-46" value="Backend Car App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="183" y="200" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

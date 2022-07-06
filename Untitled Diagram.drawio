@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T06:58:35.109Z" agent="5.0 (Macintosh)" etag="dBs3HL6YAxhecy_LQCwM" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T07:05:56.199Z" agent="5.0 (Macintosh)" etag="fNB48QTNlUVNaCUYEw7X" version="20.0.4" type="github">
   <diagram id="46HZD863k6NMnnVQx-7p" name="Page-1">
     <mxGraphModel dx="2276" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -340,6 +340,12 @@
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-32" target="x_Rzsfc4FZdm5byKSgcD-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-32" target="x_Rzsfc4FZdm5byKSgcD-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-32" target="x_Rzsfc4FZdm5byKSgcD-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-32" value="IBM Cloud Openshift" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="10" width="290" height="300" as="geometry" />
         </mxCell>
@@ -396,6 +402,12 @@
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-46" value="Backend Car App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="183" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-66" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="153" y="408.25" width="30" height="21.75" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Rzsfc4FZdm5byKSgcD-67" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/migrate/Data_Box.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="408.25" width="30" height="28.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

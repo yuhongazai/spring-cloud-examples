@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T00:18:10.489Z" agent="5.0 (Macintosh)" etag="XcU_6Ee0cfIMSOrBJbQ9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T00:24:01.215Z" agent="5.0 (Macintosh)" etag="4gtHUkoAr5xwpMbX8lno" version="20.0.4" type="github">
   <diagram id="46HZD863k6NMnnVQx-7p" name="Page-1">
-    <mxGraphModel dx="1796" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,19 +301,24 @@
           <mxGeometry x="684" y="90" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-8" value="SFTP Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="800" y="105" width="90" height="50" as="geometry" />
+          <mxGeometry x="800" y="120" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x_Rzsfc4FZdm5byKSgcD-9" target="x_Rzsfc4FZdm5byKSgcD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-9" value="User" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="105" width="40" height="40" as="geometry" />
+          <mxGeometry x="1090" y="-5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x_Rzsfc4FZdm5byKSgcD-12" value="&lt;div&gt;upload&lt;/div&gt;&lt;div&gt;files&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x_Rzsfc4FZdm5byKSgcD-10" target="x_Rzsfc4FZdm5byKSgcD-8" edge="1">
+        <mxCell id="c1Kr3FFcM2DkCADQFWIU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_Rzsfc4FZdm5byKSgcD-10" target="c1Kr3FFcM2DkCADQFWIU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c1Kr3FFcM2DkCADQFWIU-6" value="upload files" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c1Kr3FFcM2DkCADQFWIU-5">
+          <mxGeometry x="-0.0588" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-10" value="sftp client" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" parent="1" vertex="1">
-          <mxGeometry x="990" y="100" width="45" height="50" as="geometry" />
+          <mxGeometry x="983.5" y="-10" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="x_Rzsfc4FZdm5byKSgcD-13" target="x_Rzsfc4FZdm5byKSgcD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -356,7 +361,7 @@
           <mxGeometry x="500" y="190" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-38" value="Softlayer" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="795" y="10" width="100" height="170" as="geometry" />
+          <mxGeometry x="795" y="-40" width="100" height="220" as="geometry" />
         </mxCell>
         <mxCell id="x_Rzsfc4FZdm5byKSgcD-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="x_Rzsfc4FZdm5byKSgcD-40" target="x_Rzsfc4FZdm5byKSgcD-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -410,7 +415,18 @@
           <mxGeometry x="290" y="408.25" width="30" height="28.73" as="geometry" />
         </mxCell>
         <mxCell id="c1Kr3FFcM2DkCADQFWIU-2" value="IBM Cloud" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-40" width="740" height="390" as="geometry" />
+          <mxGeometry x="50" y="-40" width="730" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="c1Kr3FFcM2DkCADQFWIU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c1Kr3FFcM2DkCADQFWIU-3" target="x_Rzsfc4FZdm5byKSgcD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c1Kr3FFcM2DkCADQFWIU-7" value="&lt;span class=&quot;css-truncate css-truncate-target d-block width-fit&quot;&gt;&lt;a href=&quot;https://github.ibm.com/ITM/ITMAnonymization/tree/dev/AnonymizationData&quot; data-pjax=&quot;#repo-content-pjax-container&quot; title=&quot;AnonymizationData&quot; class=&quot;js-navigation-open Link--primary&quot;&gt;Anonymization Data&lt;/a&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c1Kr3FFcM2DkCADQFWIU-4">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c1Kr3FFcM2DkCADQFWIU-3" value="PA Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-10" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
